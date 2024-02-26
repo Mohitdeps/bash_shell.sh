@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Please provide Name"
+read -p "Enter Anything:" spelings
+spelings=$spelings
+
+while true
+do
+    echo "$spelings"
+    sleep 2s
+done
