@@ -1,2 +1,2 @@
-# bash_shell.sh
+# bash_shell_notes
 bash shell script
